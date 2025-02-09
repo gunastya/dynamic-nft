@@ -3,6 +3,7 @@ This repo will support the [Creating Dynamic NFTs](https://www.youtube.com/watch
 
 ## How to Use The Repo
 ## 1
+#2
 This repo consists of two files:
 - **1_starter.sol**: This is the starter file with the basic OpenZeppelin contract plus helper functions
 - **2_complete.sol**: the final contract for use with keepers
