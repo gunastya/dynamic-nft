@@ -1,5 +1,5 @@
 # Dynamic NFTs
-This repo will support the [Creating Dynamic NFTs](https://www.youtube.com/watch?v=E7Rm1LUKhj4) tutorial.  
+This repo will support the [Creating Dynamic NFTs](https://www.youtube.com/watch?v=E7Rm1LUKhj4) tutorial.   
 
 ## How to Use The Repo
 ## 1
